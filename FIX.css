@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header, footer { background: #232c3d; color: #fff; padding: 16px; text-align: center; }
+nav a { color: #fff; margin: 0 8px; text-decoration: none; }
+section { margin: 24px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #ccc; padding: 8px; }
